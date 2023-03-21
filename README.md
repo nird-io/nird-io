@@ -2,4 +2,4 @@
 - 👀 I’m interested in everything technology
 - 🌱 I’m currently learning Rust, Offensive Security, Figure Drawing
 - 💞️ I’m looking to collaborate on Startups, Fashion, Artwork
-- 📫 How to reach me profnird@gmail.com
+- 📫 How to reach me dev.nird.io@gmail.com
